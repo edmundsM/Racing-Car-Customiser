@@ -16,7 +16,7 @@ struct ContentView: View {
             Car make: \(car.make)
             Model: \(car.model)
             Top Speed: \(car.topSpeed)
-            Acceleration: \(car.acceleration)s
+            Acceleration: \(car.acceleration,specifier: "%.2f")s
             Handling: \(car.handling)
             """)
                 .frame(width: 400, height: 110)
