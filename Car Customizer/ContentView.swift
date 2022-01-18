@@ -12,13 +12,8 @@ struct ContentView: View {
     
     var body: some View {
         VStack{
-            Text("""
-            Car make: \(car.make)
-            Model: \(car.model)
-            Top Speed: \(car.topSpeed)
-            Acceleration: \(car.acceleration,specifier: "%.2f")s
-            Handling: \(car.handling)
-            """)
+            let displayCarStats = car.displayStats()
+            Text(displayCarStats)
                 .frame(width: 400, height: 110)
                 .padding()
                 .background(.gray)
