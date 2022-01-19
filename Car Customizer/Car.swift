@@ -18,7 +18,7 @@ struct Car {
             return """
                 Make: \(make)
                 Model: \(model)
-                Top Speed: \(topSpeed)mph
+                Top Speed: \(topSpeed)kph
                 Acceleration (0-60): \(acceleration)s
                 Handling: \(handling)
                 """

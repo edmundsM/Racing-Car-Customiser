@@ -16,6 +16,7 @@
 		567C227E2795F5E00089863D /* Car_CustomizerUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 567C227D2795F5E00089863D /* Car_CustomizerUITestsLaunchTests.swift */; };
 		567C228B2796056A0089863D /* Car.swift in Sources */ = {isa = PBXBuildFile; fileRef = 567C228A2796056A0089863D /* Car.swift */; };
 		567C228C279605C20089863D /* Car.swift in Sources */ = {isa = PBXBuildFile; fileRef = 567C228A2796056A0089863D /* Car.swift */; };
+		567D14A62798A2FE0095F7D9 /* Starter Cars.swift in Sources */ = {isa = PBXBuildFile; fileRef = 567D14A52798A2FE0095F7D9 /* Starter Cars.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		567C227B2795F5E00089863D /* Car_CustomizerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Car_CustomizerUITests.swift; sourceTree = "<group>"; };
 		567C227D2795F5E00089863D /* Car_CustomizerUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Car_CustomizerUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		567C228A2796056A0089863D /* Car.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Car.swift; sourceTree = "<group>"; };
+		567D14A52798A2FE0095F7D9 /* Starter Cars.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Starter Cars.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				567C22642795F5DF0089863D /* Assets.xcassets */,
 				567C22662795F5DF0089863D /* Preview Content */,
 				567C228A2796056A0089863D /* Car.swift */,
+				567D14A52798A2FE0095F7D9 /* Starter Cars.swift */,
 			);
 			path = "Car Customizer";
 			sourceTree = "<group>";
@@ -264,6 +267,7 @@
 				567C22632795F5DE0089863D /* ContentView.swift in Sources */,
 				567C22612795F5DE0089863D /* Car_CustomizerApp.swift in Sources */,
 				567C228B2796056A0089863D /* Car.swift in Sources */,
+				567D14A62798A2FE0095F7D9 /* Starter Cars.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

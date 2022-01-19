@@ -27,7 +27,7 @@ class Car_CustomizerTests: XCTestCase {
         let expected = """
         Make: Mazda
         Model: MX-5
-        Top Speed: 125mph
+        Top Speed: 125kph
         Acceleration (0-60): 7.7s
         Handling: 5
         """
