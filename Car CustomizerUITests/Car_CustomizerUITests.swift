@@ -28,7 +28,7 @@ class Car_CustomizerUITests: XCTestCase {
         //app.launch()
         
         //act
-        
+                        
         //let tablesQuery = app.tables
         //tablesQuery.switches["Exhaust Package (Cost: 500)"].tap()
         //tablesQuery.switches["Tires Package (Cost: 500)"].tap()
